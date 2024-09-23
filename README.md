@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmoysantra28" alt="tanmoysantra28" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iamtanmoy28" target="blank"><img src="https://img.shields.io/twitter/follow/iamtanmoy28?logo=twitter&style=for-the-badge" alt="iamtanmoy28" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tanmoysantra28" target="blank"><img src="https://img.shields.io/twitter/follow/tanmoysantra28?logo=twitter&style=for-the-badge" alt="tanmoysantra28" /></a> </p>
 
 - 🌱 I’m currently learning **React, Data Analytics**
 
