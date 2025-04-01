@@ -1,27 +1,32 @@
-<h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+## About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmoysantra28&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoysantra28" /> </p>
+Hi, I'm **Tanmoy Santra**, a third-year B.Tech CSE student with a strong focus on web development and an eagerness to learn new technologies. I’ve worked with React for building interactive web applications and am also diving into Java applications, SQL. I'm passionate about solving real-world problems through technology and enjoy building scalable, user-friendly applications.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmoysantra28" alt="tanmoysantra28" /></a> </p>
+Currently, I’m exploring full-stack development and React Native, while continuously learning to keep up with the latest trends. When I’m not coding, I like experimenting with new tools, contributing to open-source projects, and engaging with the tech community.
 
-<p align="left"> <a href="https://twitter.com/tanmoysantra28" target="blank"><img src="https://img.shields.io/twitter/follow/tanmoysantra28?logo=twitter&style=for-the-badge" alt="tanmoysantra28" /></a> </p>
+## My Skills
 
-- 🌱 I’m currently learning **React, Data Analytics**
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 
-- 💬 Ask me about **react, C**
+## GitHub Stats
 
-- 📫 How to reach me **tanmoysantra2812004@gmail.com**
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=TanmoySantra28&theme=dark&show_icons=true&count_private=true">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tanmoysantra28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamtanmoy28" height="30" width="40" /></a>
-<a href="https://instagram.com/iamtanmoy28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamtanmoy28" height="30" width="40" /></a>
-</p>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=TanmoySantra28&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=TanmoySantra28&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Connect with me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmoysantra28&show_icons=true&locale=en&layout=compact" alt="tanmoysantra28" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmoysantra28&show_icons=true&locale=en" alt="tanmoysantra28" /></p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Tanmoy Santra</a> Email: tanmoysantra2812004@gmail.com</p>
