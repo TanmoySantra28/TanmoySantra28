@@ -31,4 +31,4 @@ Currently, I’m exploring full-stack development and something more, while cont
 ## Connect with me
 
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/tanmoy-santra-95321324b/" target="_blank">Tanmoy Santra</a> 
-<p align="center">Email: tanmoysantra2812004@gmail.com</p>
+<p align="center">Email: <a href="tanmoysantra2812004@gmail.com" target="_blank">tanmoysantra2812004@gmail.com</a></p>
