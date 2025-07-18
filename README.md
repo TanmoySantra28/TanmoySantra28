@@ -4,6 +4,8 @@ Hi, I'm **Tanmoy Santra**, a final-year B.Tech CSE student with a strong focus o
 
 Currently, I’m exploring full-stack development and something more, while continuously learning to keep up with the latest trends. When I’m not coding, I like experimenting with new tools, contributing to open-source projects, and engaging with the tech community.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moumonibera06&label=Profile%20views&color=0e75b6&style=flat" alt="moumonibera06" /> </p>
+
 ## My Skills
 
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
