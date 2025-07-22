@@ -2,7 +2,7 @@
 
 Hi, I'm **Tanmoy Santra**, a final-year B.Tech CSE student with a strong focus on web development and an eagerness to learn new technologies. I’ve worked with React for building interactive web applications and am also diving into Java applications, SQL. I'm passionate about solving real-world problems through technology and enjoy building scalable, user-friendly applications.
 
-Currently, I’m exploring full-stack development and something more, while continuously learning to keep up with the latest trends. When I’m not coding, I like experimenting with new tools, contributing to open-source projects, and engaging with the tech community.
+Currently, I’m exploring full-stack development and something more, while continuously learning to keep up with the latest trends. When I’m not coding, I like experimenting with new tools, contributing to open-source projects, and engaging with the tech community..
 
 
 ## My Skills
