@@ -1,9 +1,12 @@
 ## About Me
 
-Hi, I'm **Tanmoy Santra**, a final-year B.Tech CSE student with a strong focus on web development and an eagerness to learn new technologies. I’ve worked with React for building interactive web applications and am also diving into Java applications, SQL. I'm passionate about solving real-world problems through technology and enjoy building scalable, user-friendly applications.
+Hi, I'm **Tanmoy Santra**, a Computer Science graduate interested in **software engineering, systems programming, Linux, and machine learning**.
 
-Currently, I am exploring full-stack development and something more, while continuously learning to keep up with the latest trends. When I’m not coding, I like experimenting with new tools, contributing to open-source projects, and engaging with the tech community..
+I started with web development and have worked with technologies like React, Node.js, Java, Python, SQL, and C. These days, I'm going deeper into the fundamentals - learning C, Linux/Unix, data structures and algorithms, computer systems, and machine learning.
 
+I prefer learning by building things, experimenting, breaking them, and figuring out why they work. I'm currently working on strengthening my fundamentals and turning what I learn into practical projects.
+
+Outside of coding, I enjoy exploring new tools, contributing to open source, and occasionally going down unnecessary rabbit holes about how computers work.
 
 ## My Skills
 
@@ -20,6 +23,17 @@ Currently, I am exploring full-stack development and something more, while conti
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 
+## Currently Learning
+
+- C and systems programming
+- Rust
+- Linux / Unix
+- Data Structures & Algorithms
+- Computer Systems
+- Python & Machine Learning
+- SQL & Data Analysis
+- Open Source & Git workflows
+
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
@@ -30,5 +44,5 @@ Currently, I am exploring full-stack development and something more, while conti
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/tanmoy-santra-95321324b/" target="_blank">Tanmoy Santra</a> 
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/tanmoysantra28/" target="_blank">Tanmoy Santra</a> 
 <p align="center">Email: tanmoysantra2812004@gmail.com</p>
