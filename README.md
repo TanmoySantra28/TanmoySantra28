@@ -7,7 +7,7 @@ I started with web development and have worked with technologies like React, Nod
 I prefer learning by building things, experimenting, breaking them, and figuring out why they work. I'm currently working on strengthening my fundamentals and turning what I learn into practical projects.
 
 Outside of coding, I enjoy exploring new tools, contributing to open source, and occasionally going down unnecessary rabbit holes about how computers work.
-
+ 
 ## My Skills
 
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
