@@ -1,7 +1,7 @@
 ## About Me
   
 Hi, I'm **Tanmoy Santra**, a Computer Science graduate interested in **software engineering, systems programming, Linux, and machine learning**.  
-  
+   
 I started with web development and have worked with technologies like React, Node.js, Java, Python, SQL, and C. These days, I'm going deeper into the fundamentals - learning C, Linux/Unix, data structures and algorithms, computer systems, and machine learning.
 
 I prefer learning by building things, experimenting, breaking them, and figuring out why they work. I'm currently working on strengthening my fundamentals and turning what I learn into practical projects.
